@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cedric is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://meet-cedric.com
+Cedric provides an AI employee that integrates with Slack, Telegram, Discord and web tools to automate tasks, remember context, and assist teams across sales, marketing, and development. It offers a free tier and paid plans, with real‑time collaboration and secure data handling.
+
+**Areas:** Company · AI · Automation · Collaboration · Productivity
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://meet-cedric.com)
+- [Documentation](https://meet-cedric.com/docs)
+- [Getting started](https://meet-cedric.com/how-to-use-cedric)
+- [Pricing](https://meet-cedric.com/pricing)
+- [Changelog](https://meet-cedric.com/changelog)
+- [Blog](https://meet-cedric.com/blog)
+- [Security](https://meet-cedric.com/security)
+- [Terms of service](https://meet-cedric.com/terms)
+- [Privacy policy](https://meet-cedric.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/meet-cedric/](https://apis.io/providers/meet-cedric/).
